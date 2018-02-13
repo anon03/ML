@@ -2,7 +2,7 @@
 ML-Project-ImageDetection
 
 detecting image via core ML
-The readme file should provide a description about the project being undertaken, team members, the dataset being used and attribution to other contributions if datasets and codes have been reused. Please kindly share the link to the Project in Github by EOD Feb 11, 2018. This is a prerequisite for the demo scheduled for tomorrow and Friday this week.
+
 
 __Team Members : _Amir Gurung [ 03 ] _Jagadish Thapa [ 41 ] _Rohit Bhattarai [ 42 ]
 
